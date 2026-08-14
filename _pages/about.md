@@ -8,7 +8,7 @@ redirect_from:
 
 <summary id="about_me"><span class="summary-heading">About Me</span></summary>
 
-I am a second-year Ph.D. student (D2) in the [Natural Language Processing Laboratory](https://nlp.naist.jp/en/) at the [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/en/), advised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb/home).
+I am a second-year Ph.D. student (D2) in the [Natural Language Processing Laboratory](https://nlp.naist.jp/en/) at the [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/en/), advised by [Yusuke Sakai](https://www.yusuke1997.jp/), [Hidetaka Kamigaito](https://sites.google.com/site/hidetakakamigaito), and [Taro Watanabe](https://sites.google.com/site/tarowtnb/home).
 
 My research lies at the intersection of natural language processing, vision-language models, and trustworthy AI. I am particularly interested in evaluating and improving multimodal and large language models across cultural, scientific, and high-stakes settings. My recent work covers LLM bias and evaluation, Chinese art understanding, tool-augmented remote sensing, and clinical AI.
 
@@ -38,10 +38,10 @@ You can find my latest work on [Google Scholar](https://scholar.google.com/citat
       <a href="https://doi.org/10.3390/rs18101613"><img src="https://img.shields.io/badge/Paper-blue" alt="Paper"/></a>
     </li>
     <li>
-      <strong>Large language models in the clinic: a comprehensive benchmark</strong><br>
+      <strong>Large Language Models Are Poor Clinical Decision-Makers: A Comprehensive Benchmark</strong><br>
       Fenglin Liu, Zheng Li, Hongjian Zhou, Qingyu Yin, Jingfeng Yang, Xianfeng Tang, Chen Luo, Ming Zeng, Haoming Jiang, Yifan Gao, Priyanka Nigam, Sreyashi Nag, Bing Yin, Yining Hua, <u>Xuan Zhou</u>, Omid Rohanian, Anshul Thakur, Lei Clifton, David A. Clifton<br>
-      <em>arXiv preprint arXiv:2405.00716, 2024</em><br>
-      <a href="https://arxiv.org/abs/2405.00716"><img src="https://img.shields.io/badge/Paper-blue" alt="Paper"/></a>
+      <em>EMNLP 2024, Main Conference, pp. 13696–13710</em><br>
+      <a href="https://aclanthology.org/2024.emnlp-main.759/"><img src="https://img.shields.io/badge/Paper-blue" alt="Paper"/></a>
     </li>
     <li>
       <strong>FLDNet: A Foreground-Aware Network for Polyp Segmentation Leveraging Long-Distance Dependencies</strong><br>
@@ -66,7 +66,7 @@ You can find my latest work on [Google Scholar](https://scholar.google.com/citat
   <ul>
     <li>Ph.D. Student in Computer Science, 2024.10 - present</li>
     <li>Research: Computational Linguistics and Multimodal Large Language Models</li>
-    <li>Supervisor: <a href="https://sites.google.com/site/tarowtnb/home">Prof. Taro Watanabe</a></li>
+    <li>Supervisors: <a href="https://www.yusuke1997.jp/">Yusuke Sakai</a>, <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, and <a href="https://sites.google.com/site/tarowtnb/home">Taro Watanabe</a></li>
   </ul>
 
   <h3><a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a>, France</h3>
