@@ -1,22 +1,21 @@
 locale: en-US
-title: "Zhi Qu's Homepage"
-name: "Zhi Qu"
-description: "Technical Researcher at NICT"
-url: "https://zhiqu22.github.io"
+title: "Zhou Xuan's Homepage"
+name: "Zhou Xuan"
+description: "Ph.D. Student at NAIST"
+url: "https://xuanzhou111.github.io"
 baseurl: ""
-repository: "zhiqu22/zhiqu22.github.io"
+repository: "xuanZhou111/xuanZhou111.github.io"
 timezone: Asia/Tokyo
 theme: null
 
 author:
   avatar: "profile.png"
-  name: "Zhi Qu | 屈直"
-  bio: "Technical Researcher @ NICT <br> Ph.D. of Engineering @ NAIST"
-  location: "JAPAN"
-  email: "qu.zhi@nict.go.jp"
-  googlescholar: "https://scholar.google.com/citations?user=iLifb1YAAAAJ&hl=en&oi=ao"
-  github: "zhiqu22"
-  linkedin: "zhi-qu-14931a372"
+  name: "Zhou Xuan | 周璇"
+  bio: "Ph.D. Student (D2) @ NAIST <br> Natural Language Processing Lab"
+  location: "Osaka, Japan"
+  email: "xuan.zhou.xc7@naist.ac.jp"
+  googlescholar: "https://scholar.google.com/citations?user=V5Z7HzMAAAAJ&hl=en"
+  github: "xuanZhou111"
 
 include:
   - _pages
