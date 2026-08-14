@@ -91,16 +91,6 @@ You can find my latest work on [Google Scholar](https://scholar.google.com/citat
   </ul>
 </details>
 
----
-
-<details id="skills">
-  <summary><span class="summary-heading">Skills &amp; Languages</span></summary>
-  <ul>
-    <li><strong>Programming:</strong> Python, TensorFlow, PyTorch, NumPy, Pandas</li>
-    <li><strong>Languages:</strong> Mandarin Chinese (native), English (TOEFL 109), French (B1), Japanese (JLPT N3)</li>
-  </ul>
-</details>
-
 <script>
 (function () {
   function openDetailsFromHash() {
