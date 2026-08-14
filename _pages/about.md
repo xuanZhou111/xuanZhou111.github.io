@@ -10,6 +10,8 @@ redirect_from:
 
 I am a second-year Ph.D. student (D2) in the [Natural Language Processing Laboratory](https://nlp.naist.jp/en/) at the [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/en/), advised by [Yusuke Sakai](https://www.yusuke1997.jp/), [Hidetaka Kamigaito](https://sites.google.com/site/hidetakakamigaito), and [Taro Watanabe](https://sites.google.com/site/tarowtnb/home).
 
+**I am actively seeking internship opportunities.**
+
 My research lies at the intersection of natural language processing, vision-language models, and trustworthy AI. I am particularly interested in evaluating and improving multimodal and large language models across cultural, scientific, and high-stakes settings. My recent work covers LLM bias and evaluation, Chinese art understanding, tool-augmented remote sensing, and clinical AI.
 
 You can find my latest work on [Google Scholar](https://scholar.google.com/citations?user=V5Z7HzMAAAAJ&hl=en).
