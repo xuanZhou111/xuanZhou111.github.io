@@ -1,0 +1,58 @@
+locale: en-US
+title: "Zhi Qu's Homepage"
+name: "Zhi Qu"
+description: "Technical Researcher at NICT"
+url: "https://zhiqu22.github.io"
+baseurl: ""
+repository: "zhiqu22/zhiqu22.github.io"
+timezone: Asia/Tokyo
+theme: null
+
+author:
+  avatar: "profile.png"
+  name: "Zhi Qu | 屈直"
+  bio: "Technical Researcher @ NICT <br> Ph.D. of Engineering @ NAIST"
+  location: "JAPAN"
+  email: "qu.zhi@nict.go.jp"
+  googlescholar: "https://scholar.google.com/citations?user=iLifb1YAAAAJ&hl=en&oi=ao"
+  github: "zhiqu22"
+  linkedin: "zhi-qu-14931a372"
+
+include:
+  - _pages
+
+exclude:
+  - .asset-cache
+  - .bundle
+  - .devcontainer
+  - .github
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - README*
+  - vendor
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
