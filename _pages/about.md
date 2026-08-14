@@ -62,10 +62,21 @@ You can find my latest work on [Google Scholar](https://scholar.google.com/citat
 
 <details id="education">
   <summary><span class="summary-heading">Education</span></summary>
-  <h3>Nara Institute of Science and Technology (NAIST), Japan</h3>
+  <h3><a href="https://www.naist.jp/en/">Nara Institute of Science and Technology (NAIST)</a>, Japan</h3>
   <ul>
-    <li>Ph.D. Student, Natural Language Processing Laboratory, 2024.10 - present</li>
+    <li>Ph.D. Student in Computer Science, 2024.10 - present</li>
+    <li>Research: Computational Linguistics and Multimodal Large Language Models</li>
     <li>Supervisor: <a href="https://sites.google.com/site/tarowtnb/home">Prof. Taro Watanabe</a></li>
+  </ul>
+
+  <h3><a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a>, France</h3>
+  <ul>
+    <li>Master's degree in Electronic Information, 2021.10 - 2023.10</li>
+  </ul>
+
+  <h3><a href="https://www.sanxiau.edu.cn/">Chongqing Three Gorges University</a>, China</h3>
+  <ul>
+    <li>Bachelor's degree in Electronic Information Engineering, 2018.09 - 2020.06</li>
   </ul>
 </details>
 
