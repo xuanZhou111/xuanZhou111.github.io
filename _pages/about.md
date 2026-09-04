@@ -33,23 +33,17 @@ You can find my latest work on [Google Scholar](https://scholar.google.com/citat
     <li>
       <strong>Where Do Vision-Language Models Fail on Abstract Reasoning? An Information Processing Analysis of ARC</strong><br>
       <u>Xuan Zhou</u>, Xuefeng Wei, Zhi Qu, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe<br>
-      <em>EMNLP 2026, Main Conference (to appear)</em><br>
-      <a href="https://openreview.net/forum?id=8Qszm4KEou"><img src="https://img.shields.io/badge/OpenReview-blue" alt="OpenReview"/></a>
-      <a href="https://openreview.net/pdf?id=8Qszm4KEou"><img src="https://img.shields.io/badge/PDF-red" alt="PDF"/></a>
+      <em>EMNLP 2026, Main Conference (to appear)</em>
     </li>
     <li>
       <strong>CArtBench: A Museum-Grounded Benchmark for Evidence-Faithful Chinese Art Understanding</strong><br>
       Xuefeng Wei, Wang Zhixuan, <u>Xuan Zhou</u>, Zhi Qu, Hongyao Li, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe<br>
-      <em>Findings of EMNLP 2026 (to appear)</em><br>
-      <a href="https://openreview.net/forum?id=AIYff8jtCM"><img src="https://img.shields.io/badge/OpenReview-blue" alt="OpenReview"/></a>
-      <a href="https://openreview.net/pdf?id=AIYff8jtCM"><img src="https://img.shields.io/badge/PDF-red" alt="PDF"/></a>
+      <em>Findings of EMNLP 2026 (to appear)</em>
     </li>
     <li>
       <strong>ARTKGC: Leakage-Controlled Multimodal Knowledge Graph Completion for Artwork Explanation</strong><br>
       <u>Xuan Zhou</u>, Xuefeng Wei, Yuta Kato, Shintaro Ozaki, Kazuki Hayashi, Yusuke Sakai, Hidetaka Kamigaito, Katsuhiko Hayashi, Taro Watanabe<br>
-      <em>Findings of EMNLP 2026 (to appear)</em><br>
-      <a href="https://openreview.net/forum?id=hFflbubG5l"><img src="https://img.shields.io/badge/OpenReview-blue" alt="OpenReview"/></a>
-      <a href="https://openreview.net/pdf?id=hFflbubG5l"><img src="https://img.shields.io/badge/PDF-red" alt="PDF"/></a>
+      <em>Findings of EMNLP 2026 (to appear)</em>
     </li>
     <li>
       <strong>“Yuki Gets Sushi, David Gets Steak?”: Uncovering Gender and Racial Biases in LLM-Based Meal Recommendations</strong><br>
