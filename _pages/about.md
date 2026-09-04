@@ -21,7 +21,7 @@ You can find my latest work on [Google Scholar](https://scholar.google.com/citat
 <details id="news" open>
   <summary><span class="summary-heading">News</span></summary>
   <ul>
-    <li>Three papers have been accepted to EMNLP 2026: one main conference paper and two Findings papers.</li>
+    <li><small>🎆 <strong>Sep. 2026:</strong> Three papers have been accepted to <strong>EMNLP 2026</strong>: one main conference paper and two Findings papers.</small></li>
   </ul>
 </details>
 
